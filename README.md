@@ -1,5 +1,5 @@
 # Kanva
-Kanva: Knowledge-Aware LLaVa (Knowledge-Aware laNguage-and-Vision Assistant
+Kanva: Knowledge-Aware laNguage-and-Vision Assistant
 
 ## Framework
 
