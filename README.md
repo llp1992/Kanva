@@ -9,6 +9,7 @@ Kanva: Knowledge-Aware LLaVa (Knowledge-Aware laNguage-and-Vision Assistant
 
 ### MME
 
+### MMBench
 
 ## Acknowledgement
 [LLaVA](https://github.com/haotian-liu/LLaVA)  
