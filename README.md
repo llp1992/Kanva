@@ -11,8 +11,7 @@ Kanva: Knowledge-Aware LLaVa (Knowledge-Aware laNguage-and-Vision Assistant
 
 
 ## Acknowledgement
-
-[CLIP](https://github.com/openai/CLIP)  
-[MiniGPT-4](https://minigpt-4.github.io/)   
 [LLaVA](https://github.com/haotian-liu/LLaVA)  
-[Vicuna](https://github.com/lm-sys/FastChat)  
+[CLIP](https://github.com/openai/CLIP)  
+[Qwen](https://github.com/QwenLM/Qwen)
+
