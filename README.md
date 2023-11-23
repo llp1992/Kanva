@@ -13,17 +13,18 @@ We show that by applying the dataset on existing model architectures and trainin
 
 As demonstrated in the figure, we simply adopt the LLaVA model's architecture as well as the training recipe. The models are trained based on public vision-language instructions data, evolved with our rule-based and LLM-based instruction evolution procedure.
 
-## Evaluation
-
-We benchmark two series of the Kanva model, Kanva-14B and Kanva-7B. The results are reported below.
 
 ### Settings
 
--------------------------------------------------------------------------------
 |  **Model**     |  **Vision**        | **Language**     | **Parameters** |
-| Kanva-7B   | EVA-CLIP-L/336 | Baichuan2-7B |  7.2B      |
-| Kanva-14B  | EVA-CLIP-L/336 | Qwen-14B     |  14.2B      |
--------------------------------------------------------------
+|----------------|--------------------|------------------|----------------------|
+| Kanva-7B       | EVA-CLIP-L/336 | Baichuan2-7B |  7.2B      |
+| Kanva-14B      | EVA-CLIP-L/336 | Qwen-14B     |  14.2B      |
+
+
+## Evaluation
+
+We benchmark two models in the Kanva series, Kanva-14B and Kanva-7B, trained with different language components. The results are reported below.
 
 ### MME
 
