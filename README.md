@@ -27,8 +27,8 @@ As demonstrated in the figure, we simply adopt the LLaVA model's architecture as
 We benchmark two models in the Kanva series, Kanva-14B and Kanva-7B, trained with different language components. The results are reported below.
 
 ### MME
-
-To be announced.
+Kanva achieved 1666.08 perception score, which was top1 on MME full benchmark on 2023-11-24
+![mme_perception.png](assets/mme_perception.png)
 
 ### MMBench
 
