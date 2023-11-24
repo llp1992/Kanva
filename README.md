@@ -35,8 +35,6 @@ Kanva achieved 1666.08 perception score, which was top1 on MME full benchmark on
 Kanva-14B achieved 74.5 on MMBench-test, which ranks second place on Private Model on 2023-11-24
 ![mmbench_test.png](assets/mmbench_test.png)
 
-To be announced.
-
 ## Acknowledgements
 
 - [LLaVA](https://github.com/haotian-liu/LLaVA)
